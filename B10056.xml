@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titus; or The palme of Christian courage: to be exhibited by the schollars of the Society of Iesus, at Kilkenny, anno Domini 1644.</title>
+            <author>Solier, François.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10056</idno>
+            <idno type="OCLC"> 80923785</idno>
+            <idno type="STC">Wing S4456A</idno>
+            <idno type="STC">ESTC R184350</idno>
+            <idno type="EEBO-CITATION">80923785</idno>
+            <idno type="OCLC">ocm 80923785</idno>
+            <idno type="VID">192014</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10056)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192014)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2898:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Titus; or The palme of Christian courage: to be exhibited by the schollars of the Society of Iesus, at Kilkenny, anno Domini 1644.</title>
+                  <author>Solier, François.</author>
+                  <author>Solier, François. Histoire ecclesiastique des isles et royaumes du Japon.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Waterford by Thomas Bourke,</publisher>
+                  <pubPlace>[Waterford] :</pubPlace>
+                  <date>M. DC. XLIV. [1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"This history is compendiously set downe by Father Francis Solier, of the Society of Iesus in the 18. booke of his Ecclesiasticall historie of Iaponia, in the yeare of our Lord, 1620"--P. [1].</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trust in God --  Christianity --  Early works to 1800.</term>
+               <term>Christian life --  Catholic authors --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192014:1"/>
+            <pb facs="tcp:192014:1" rendition="simple:additions"/>
+            <p>TITVS, OR THE PALME OF CHRISTIAN COVRAGE: To be exhibited by the Schollars of the Society of IESVS, at Kilken<g ref="char:EOLhyphen"/>ny, <hi>Anno Domini</hi> 1644.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="argument">
+                        <head>THE ARGVMENT.</head>
+                        <p>
+                           <hi>TItus</hi> a noble Gentleman more illuſtrious for his Chriſtian courage, then parentage: was ſollicited by the King of <hi>Bungo,</hi> to deſert his Religion by ſeverall, moſt artificious in<g ref="char:EOLhyphen"/>fernall plots, all which he ſleighted and daſhed with his invin<g ref="char:EOLhyphen"/>cible courage, and generous Chriſtian reſolution, whereat the King amazed, reſtored him to his liberty, wife and children, and granted him the freedome of his Religion, with all his lands and poſſeſſions of which before he was bereaved as trai<g ref="char:EOLhyphen"/>tor to the Crowne.</p>
+                        <p>
+                           <hi>This history is compendiouſly ſet downe by Father Francis Solier, of the Society of IESVS in the</hi> 18. <hi>booke of his Eccleſiasticall hiſtorie of Iaponia, and yeare of our Lord,</hi> 1620.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at Waterford by <hi>Thomas Bourke,</hi> M.DC.XLIV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:192014:2"/>
+            <list>
+               <item>
+                  <label>THE PROLOGVE.</label> Divine love extolleth the <hi>Iaponian's</hi> courage.</item>
+               <item>
+                  <label>Act 1. Scene 1.</label> IDolatrie ſtormes at her expulſion out of <hi>Ia<g ref="char:EOLhyphen"/>ponia,</hi> and exciteth hell to revenge.</item>
+               <item>
+                  <label>Scene 2.</label> The Emperor of <hi>Iaponia</hi> declareth his affe<g ref="char:EOLhyphen"/>ction towards the Idolls, and to this end com<g ref="char:EOLhyphen"/>mandeth a ſolemne ſacrifice.</item>
+               <item>
+                  <label>Scene 3.</label> The <hi>Bongo's</hi> receive no anſwer from their gods as they were wont, hence they rage againſt the Chriſtians.</item>
+               <item>
+                  <label>Scene 4.</label> Faith and Fortitude, implore aide of the tri<g ref="char:EOLhyphen"/>umphant Church.</item>
+               <item>
+                  <label>The Interlude.</label> A Countrey Clowne hearing that a procla<g ref="char:EOLhyphen"/>mation was to iſſue againſt the Chriſtians, is mighty merry, and attempts to robbe a paſſen<g ref="char:EOLhyphen"/>ger.</item>
+               <item>
+                  <label>Act 2. Scene 1.</label> THe Emperor commands the edict againſt Chriſtians to bee proclaimed.</item>
+               <item>
+                  <label>Scene 2.</label> The edict is promulged.</item>
+               <item>
+                  <label>Scene 3.</label> 
+                  <hi>Titus</hi> peruſing the edict, deliberates, with death, judgment, hell, heaven and eternitie.</item>
+               <item>
+                  <label>Scene 3.</label> The King of <hi>Bungo</hi> inquireth narrowly af<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:192014:2"/>the Chriſtians.</item>
+               <item>
+                  <label>Scene 4.</label> 
+                  <hi>Titus</hi> is ſummoned and biddeth adieu to wife and children.</item>
+               <item>
+                  <label>Scene 5.</label> Idolatrie triumphes before time, and is by faith repreſſed.</item>
+               <item>
+                  <label>The Interlude.</label> A Souldier fainedly ſicke, calleth for the Doctor, whoſe purſe artificiouſly he conveyeth out of his pocket, and hopes by a lad dreaming to get another.</item>
+               <item>
+                  <label>Act 3. Scene 2.</label> THe King of <hi>Bungo</hi> endevors firſt by threats, then by faire promiſes to pervert <hi>Titus.</hi>
+               </item>
+               <item>
+                  <label>Scene 2.</label> 
+                  <hi>Titus</hi> his wife and familie voweth loyaltie to God before the Crucifix.</item>
+               <item>
+                  <label>Scene 3.</label> The militant Church doth comfort them.</item>
+               <item>
+                  <label>Scene 4.</label> S. <hi>Francis Xaverius</hi> appeares &amp; encourageth them.</item>
+               <item>
+                  <label>Act 4. Scene 1.</label> THe King of <hi>Bungo</hi> menaceth death to <hi>Titus</hi> his youngeſt ſonne, if the father ab<g ref="char:EOLhyphen"/>jure not his faith.</item>
+               <item>
+                  <label>Scene 2.</label> Foure youngmen in vaine ſeeke to pervert the lad with the pleaſures of the world.</item>
+               <item>
+                  <label>Scene 3.</label> 
+                  <hi>Martina</hi> the daughter, biddeth adieu, with mother and brother, aſſuring them of her con<g ref="char:EOLhyphen"/>ſtancy.</item>
+               <item>
+                  <label>Scene 4.</label> 
+                  <hi>Simon</hi> the eldeſt ſonne bewaileth for that he is
+<pb facs="tcp:192014:3"/>left behind.</item>
+               <item>
+                  <label>Scene 5.</label> Tidings are brought to <hi>Titus</hi> of his daugh<g ref="char:EOLhyphen"/>ters execution, <hi>Martina</hi> the mother of <hi>Simon</hi> is ſummoned.</item>
+               <item>
+                  <label>Scene 6.</label> By the King both are ſollicited to deſert their faith, <hi>Simon</hi> ſcourged.</item>
+               <item>
+                  <label>The Interlude.</label> Two ſouldiers force a lad to diſcover where the mothers purſe lay hidden by whom they are deceived.</item>
+               <item>
+                  <label>Act 5. Scene 1.</label> 
+                  <hi>TItus</hi> is ſent for by the King, in whoſe view ſuppoſed heads of wife &amp; children are produ<g ref="char:EOLhyphen"/>ced.</item>
+               <item>
+                  <label>Scene 2.</label> They are lead from priſon before him and a ſuperficiall command given to kill them in his preſence, if he perſiſts in his conſtant reſolu<g ref="char:EOLhyphen"/>tion.</item>
+               <item>
+                  <label>Scene 3.</label> Divine providence declareth Gods care of his elect, and foretelleth <hi>Titus</hi> his triumph.</item>
+               <item>
+                  <label>Scene 4.</label> The King amazed at this conſtancie diſmiſ<g ref="char:EOLhyphen"/>ſeth them, freedome of Religion granted with their lives and eſtates.</item>
+               <item>
+                  <label>Epilogue.</label> Exhorteth to imitate their couragious Chri<g ref="char:EOLhyphen"/>ſtian reſolution.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:192014:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
